@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808387489529",
+    "firebase_url": "https://peaksource-team-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "peaksource-team",
+    "storage_bucket": "peaksource-team.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808387489529:android:929a7f9cfdc8912ccabc28",
+        "android_client_info": {
+          "package_name": "com.peaksource.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808387489529-5l2ps0l6oh8f84a5rbe9iljsc77942r2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7kUY0tmJQ5MIFVFGBdhG_QM7Ir-BI_6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808387489529-5l2ps0l6oh8f84a5rbe9iljsc77942r2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
